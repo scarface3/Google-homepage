@@ -1,0 +1,67 @@
+body,
+p {
+  margin: 0%;
+  padding: 0%;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  width: 20%;
+  margin-left: auto;
+  padding: 2em;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+nav img {
+  height: 20px;
+}
+.dimzy {
+  border-radius: 50%;
+}
+main {
+  width: 50%;
+  margin: 19.9em auto;
+  text-align: center;
+}
+input {
+  width: 80%;
+  padding: 1em;
+  border-radius: 30px;
+  border: 1px solid grey;
+}
+.btn-container {
+  margin-top: 1em;
+}
+.btn-container button {
+  padding: 1em;
+  border: none;
+}
+.lang {
+  margin: 1em;
+}
+.lang a {
+  color: blue;
+}
+footer {
+  background-color: rgb(212, 212, 212);
+}
+.footer-top {
+  padding: 1em;
+}
+.footer-bottom {
+  padding: 1em;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid grey;
+}
+.left a {
+  margin-right: 1em;
+}
+.right a {
+  margin-right: 1em;
+}

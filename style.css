@@ -6,6 +6,9 @@ p {
   font-family: arial, sans-serif;
   color: #222;
 }
+body {
+  height: 100vh;
+}
 nav {
   display: flex;
   justify-content: space-around;
